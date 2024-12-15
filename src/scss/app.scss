@@ -1,0 +1,8 @@
+// Global
+@use "global/normalize";
+@use "global/fonts";
+@use "global/main";
+
+// Components (blocks)
+@use "blocks/header";
+@use "blocks/footer";
